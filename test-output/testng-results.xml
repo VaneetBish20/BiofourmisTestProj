@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26271" started-at="2021-04-15T00:32:13 SGT" finished-at="2021-04-15T00:32:39 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26271" started-at="2021-04-15T00:32:13 SGT" finished-at="2021-04-15T00:32:39 SGT">
+      <class name="BiofourmisTestProj.BiofourmisTests.TestScenario3_MMP">
+        <test-method status="PASS" signature="setup()[pri:0, instance:BiofourmisTestProj.BiofourmisTests.TestScenario3_MMP@2173f6d9]" name="setup" is-config="true" duration-ms="7146" started-at="2021-04-15T00:32:13 SGT" finished-at="2021-04-15T00:32:20 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatemakemyTripDeals()[pri:0, instance:BiofourmisTestProj.BiofourmisTests.TestScenario3_MMP@2173f6d9]" name="validatemakemyTripDeals" duration-ms="18301" started-at="2021-04-15T00:32:20 SGT" finished-at="2021-04-15T00:32:39 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatemakemyTripDeals -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BiofourmisTestProj.BiofourmisTests.TestScenario3_MMP@2173f6d9]" name="tearDown" is-config="true" duration-ms="780" started-at="2021-04-15T00:32:39 SGT" finished-at="2021-04-15T00:32:39 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BiofourmisTestProj.BiofourmisTests.TestScenario3_MMP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
